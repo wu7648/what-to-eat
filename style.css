@@ -20,11 +20,11 @@ button {
 ul {
     list-style: none;
     padding: 0;
-    width:70%;
+    width:50%;
 }
 
 li {
     margin: 8px 0;
     display: flex;
-    justify-content: space-between ;
+    justify-content: space-between;
 }
